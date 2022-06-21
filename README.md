@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Solidity Basics
 =======
 This is part of the FreeCodeCamp Solidity & Javascript Blockchain Course.
@@ -13,4 +13,4 @@ This is part of the FreeCodeCamp Solidity & Javascript Blockchain Course.
 4. Hit `Deploy` for whatever contract you want.
 
 # Thank you!
->>>>>>> eecaefeb998983cd7431f9e68d71a3261d4ec387
+
